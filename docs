@@ -1,0 +1,11 @@
+Step 1 – Import the text file/article:
+Firstly, we will import the text file/article that has to be used for the MCQ generation with the
+help if open and read functions.
+Step 2 – Extraction of important word (keywords):
+In this step, we try to extract the most important words, also known as keywords, in our text
+article that will result in quality questions. These keywords will act as the answer to questions and will
+be a part of the 4 options, the other 3 being the wrong options.
+To do this, we use Python Keyphrase Extraction (PKE). The PKE that we use in this project is from
+an open source github repository that allows us to find keywords. This uses a multipartite unsupervised
+model to extract keywords. Multipartition ensure the efficiency of the extraction. So, in this process we
+get the best 25 keyphrases/keywords from our text article.

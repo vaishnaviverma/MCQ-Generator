@@ -1,3 +1,3 @@
-# Step 1 – Import the text file/article:
+# Import the text file/article:
 Firstly, we will import the text file/article that has to be used for the MCQ generation with the
 help if open and read functions.

@@ -1,0 +1,20 @@
+This program is just a brute force approach of creating mCQs from text articles. I plan on improving my project and have some key
+ideas on how to do so. They are as follows:
+
+	1) The questions of the present program are of the fill in the blanks format, so furthur changes can be made to the 
+	program to yeild questions of other formats such as True/False, questions containing what/when/why, multiple correct options
+	etc. 
+
+	2) The parameters of various models and extractors can be twitched to obtained improved quality of questions as well
+	as options.
+
+	3) We can summarize the whole text using some type of summarizer in order to obtain only the crucial part of 
+	the text. This will help us in framing questions only from the important section of the article.
+
+	4) Decide the ideal number of questions for the MCQ based on the text article provided.
+
+	5) Use other libraries such as RAKE and word2vec and see if they yeild better quality MCQ.
+
+These are some of the improvement ideas that I could think of and am trying to implement to my code. I am sure there are far 
+better approaches and I am always on the lookout for such approaches to achieve the best possible solution to this problem. Like 
+it is said, there is always a room for improvement. :)

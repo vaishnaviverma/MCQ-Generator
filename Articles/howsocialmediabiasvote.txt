@@ -1,0 +1,21 @@
+Politicians’ efforts to gerrymander — redraw electoral-constituency boundaries to favour one party — often hit the news. But, as a paper published in Nature this week shows, gerrymandering comes in other forms, too.
+
+The work reveals how connections in a social network can also be gerrymandered — or manipulated — in such a way that a small number of strategically placed bots can influence a larger majority to change its mind, especially if the larger group is undecided about its voting intentions.
+
+The researchers, led by mathematical biologist Alexander Stewart of the University of Houston, Texas, have joined those who are showing how it can be possible to give one party a disproportionate influence in a vote.
+
+It is a finding that should concern us all.
+
+Stewart and his colleagues reached their conclusion after analysing the results of an online voting game in which players joined one of two political parties: yellow or purple. Players won points on the basis of the vote’s outcome, winning the most if their own party won. But there was a catch: players also received some points if the other side won, and no points if the result was a draw.
+
+This measure was introduced to encourage players to compromise. It mimicked real-life voting scenarios, such as when US lawmakers from opposing sides need to give some concessions to their opponents to agree on the government’s budget. When lawmakers do not compromise, the result is a government shutdown — the equivalent of a draw or deadlock in the voting game.
+
+In the experiment, players were shown data from polls on each other’s voting intentions. So, for example, if polls suggested that the yellow party was likely to win, players from that party would stick with their vote in the hope of a victory. But if the purple party was looking more popular, yellow-party members might flip their votes to purple, to avoid a deadlock.
+
+The researchers then introduced a small number of bots representing one of the parties, to influence voters on the other side. These bots, dubbed zealots, were programmed to reject compromise during the game. The team quickly found that the bots had a devastating effect.
+
+For example, when just a few yellow-party zealots were deployed strategically among a larger number of undecided players in the purple party, these bots were able to sway the majority opinion towards the yellow party. This was true even when the parties had exactly the same number of members, and when each player had the same amount of influence.
+
+Legislators and regulators around the world are discussing how to respond to the risk of elections being manipulated digitally. At the same time, researchers are actively debating the extent to which this risk is real.
+
+This timely piece of work adds to the base of evidence that voters really can be manipulated in the digital age. Legislators and regulators must take note.

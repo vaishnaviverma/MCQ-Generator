@@ -1,0 +1,93 @@
+“Be persuasive”, “be engaging”, “tell stories with your science”.
+
+Most researchers have heard such exhortations many times, and for good reason. Such rhetorical devices often help to land the message, whether that message is designed to sell a product or win a grant. These are the traditional techniques of communications applied to science.
+
+This approach often works, but it comes with danger.
+
+There are myriad examples from the current pandemic of which we might ask: have experts always been explicit in acknowledging unknowns? Complexity? Conflicts of interest? Inconvenient data? And, importantly, their own values? Rather than re-examine those cases, we offer ideas to encourage reflection, based on our own research.
+
+Our small, interdisciplinary group at the University of Cambridge, UK, collects empirical data on issues such as how to communicate uncertainty, how audiences decide what evidence to trust, and how narratives affect people’s decision-making. Our aim is to design communications that do not lead people to a particular decision, but help them to understand what is known about a topic and to make up their own minds on the basis of that evidence. In our view, it is important to be clear about motivations, present data fully and clearly, and share sources.
+
+We recognize that the world is in an ‘infodemic’, with false information spreading virally on social media. Therefore, many scientists feel they are in an arms race of communication techniques. But consider the replication crisis, which has been blamed in part on researchers being incentivized to sell their work and focus on a story rather than on full and neutral reporting of what they have done. We worry that the urge to persuade or to tell a simple story can damage credibility and trustworthiness.
+
+Instead, we propose another approach. We call it evidence communication.
+
+Inform, not persuade
+Conventional communication techniques might ‘work’ when the aim is to change people’s beliefs or behaviours. But should that always be our aim?
+
+Early in the pandemic, we surveyed people across 13 countries from South Korea to Mexico and asked what sources of information they trusted. We also asked them why. Their answers show how sensitive people are to the aims and interests of communicators.
+
+“They sell news, not truth,” said one UK respondent about journalists; “I believe the Government are being guided by scientists and genuinely care about the population,” said another; “WHO is paid by China,” replied a respondent from Japan. Friends and family were often warmly described as having “no reason to lie”.
+
+These observations fit with the literature, which identifies expertise, honesty and good intentions as the key to trustworthiness1. Researchers need to demonstrate all three: we cannot expect to be trusted on the basis of expertise alone.
+
+So how do we demonstrate good intentions? We have to be open about our motivations, conflicts and limitations. Scientists whose objectives are perceived as prioritizing persuasion risk losing trust. During the COVID-19 crisis, one of us (D.S.) has frequently had to refuse journalists who tried to draw him away from his intention to stick to statistical evidence. As he told The Times, “The banner across my T-shirt should be To Inform and Not Persuade.” The media might urge us to aim for memorable sound bites or go beyond the strength of the data: be honest and aware of such traps.
+
+Offer balance, not false balance
+We can’t inform people fully if we don’t convey the balance of relevant evidence.
+
+We are all subject to a suite of psychological biases that mean we sometimes apply evidence to shore up our own beliefs, and find it difficult to accept evidence that goes against our ideas and hypotheses. People also like to tell (and hear) stories that don’t meander through thickets of opposing opinions or pros and cons. But evidence communicators must challenge these instincts and offer evidence in the round.
+
+Partial presentation of evidence crops up across scientific literature and in the public domain. Often, the argument made is that people can’t take in lots of information at once. If you’re presenting written information, you can make it easier for them. Here’s a simple tip from research in medical communication: display the pros and cons in a table rather than stating them in the text. Imagine a table comparing proposed transmission-prevention policies that lays out the projected harms and benefits of each policy in terms of mortality, morbidity, economics, environment and mental health, breaking down subgroups and timescales. For your audiences, knowing what the key pros and cons are is crucial.
+
+We neglect people’s interests at our peril. As soon as we are perceived to be ignoring or underplaying something our audience considers important, our motivations — and hence our trustworthiness — will be questioned. As one of the Australian participants in our COVID-19 survey in March said about their reason for distrust of official information: “Are they hiding the full effects from us?”
+
+Disclose uncertainties
+Part of telling the whole story is talking about what we don’t know.
+
+The simplest argument for stating uncertainty is that what we think we know is constantly changing (wearing face coverings is an example). One of us (M.B.), writing with others in the medical journal BMJ, admitted that at some point, all three authors had been wrong about COVID-192. So, either we had better be certain, and right — or we should more humbly state our uncertainties.
+
+When zoologist John Krebs became chair of the UK Food Standards Agency in the 2000s, he faced a deluge of crises, including dioxins in milk and the infectious cattle disease bovine spongiform encephalopathy. He adopted the following strategy: say what you know; what you don’t know; what you are doing to find out; what people can do in the meantime to be on the safe side; and that advice will change3. We check anyone talking to the public about COVID-19 against this list, especially the second point.
+
+New Zealand’s response to the pandemic has been praised. And the country’s Ministry of Health web page on COVID-19 test results includes several paragraphs describing uncertainties, including the likelihood of a false negative (meaning that a test says someone’s not infected when they actually are). The US Centers for Disease Control and Prevention page mentions no such uncertainties. Neither does the UK National Health Service website (despite us raising the issue with them): it was deemed too confusing. Even with a highly accurate test, thousands of people get false negatives and false assurance that could lead to risky behaviours.
+
+When we trialled the wording with and without the explicit uncertainties around the test result, we found that the uncertainties did not seem to undermine trustworthiness. However, the wordings did affect people’s perception of whether the test recipient should isolate if they got a negative result. In other words, people correctly interpreted the messages without having their trust undermined by an upfront description of uncertainties.
+
+Other research finds little downside in expressing findings as a range (such as ‘between x and y’) rather than an exact number4. Often, the degree of uncertainty is part of the core message. In January 2018, the BBC News website announced that over the three months to the previous November, “UK unemployment fell by 3,000 to 1.44 million”. Left unmentioned (because the UK Office of National Statistics made it hard to find) was the fact that the margin of error was ±77,000. (We are heartened that the Office of National Statistics has since started reporting ranges more prominently, and we have seen journalists follow this lead.)
+
+State evidence quality
+Audiences also judge the credibility of information based on the quality of the underlying evidence, more than its clarity, the usual priority for a communications department.
+
+
+Policy: Twenty tips for interpreting scientific claims
+Here’s a sign of how readily audiences pick out cues for quality of evidence. In a study to learn what formats work best for presenting medical data, we used a version of the phrase “x out of 100 people suffered this side effect”, and about 4% of all participants took the time to write in an open response box that a sample size of 100 people was not enough5. This was a misunderstanding due to our choice of words. We did not literally mean 100 people, but it is notable that the participants were not scientific researchers or even students: they were representative UK residents (120 of the 1,519 respondents who left unsolicited comments overall mentioned sample size).
+
+As scientists, we tend to underestimate the sophistication of our audiences’ sensitivity to cues of quality and how these affect trust. In practical terms, overtly stating that a piece of evidence is of high or low quality is unsubtle but definitely noticed by a significant proportion of a non-specialist audience. People in our surveys also ask to know the size and source of data sets, so that they can gauge relevance to them. Such information should be provided.
+
+Many will worry that following these key principles — especially exposing complexities, uncertainties or unwelcome possibilities — will let ‘merchants of doubt’ or bad actors warp their message. But there are other ways to guard against this. Research on climate change, COVID-19 and other topics shows that if people are pre-emptively warned against attempts to sow doubt (known as prebunking), they resist being swayed by misinformation or disinformation6–8.
+
+Prebunking requires anticipating potential misunderstandings or disinformation attacks, and that means understanding the concerns of the audience. Read public forums and popular news sources. Consider what decisions your audiences are making and what information — in what format — would best support these, from whether to wear a face covering to whether to take a vaccine. Consider the costs and benefits as they see them.
+
+When we developed a web tool about treatments for women newly diagnosed with breast cancer, we read the comments on patient forums. This revealed that people wanted to know the magnitude of survival benefit and of possible harms. For example, one woman said that a 1% improvement in survival was not worth the side effects of the drug tamoxifen (we paraphrase to preserve confidentiality). The information we ended up presenting was more complex and what people wanted to know.
+
+The field of evidence communication has been growing over several decades, mainly stemming from researchers in medical communication, but there is still much we don’t know about its effects, or best practice. If one is not trying to change belief or behaviour, it’s hard even to know how to measure success. Like all engagement efforts, many of the effects of a message are moderated greatly by non-verbal cues and the relationships between communicator and audience. But these challenges are why we think it important to consider alternative approaches (see ‘Quick tips for sharing evidence’).
+
+The aim is to ‘inform but not persuade’, and — as the philosopher of trust Onora O’Neill says — “to be accessible, comprehensible, usable and assessable”.
+
+• Address all the questions and concerns of the target audience.
+
+• Anticipate misunderstandings; pre-emptively debunk or explain them.
+
+• Don’t cherry-pick findings.
+
+• Present potential benefits and possible harms in the same way so that they can be compared fairly.
+
+• Avoid the biases inherent in any presentation format (for example, use both ‘positive’ and ‘negative’ framing together).
+
+• Use numbers alone, or both words and numbers.
+
+• Demonstrate ‘unapologetic uncertainty’: be open about a range of possible outcomes.
+
+• When you don’t know, say so; say what you are going to do to find out, and by when.
+
+• Highlight the quality and relevance of the underlying evidence (for example, describe the data set).
+
+• Use a carefully designed layout in a clear order, and include sources.
+
+In some fields, such as conservation science or public health, researchers might, depending on the circumstances, feel that they should become advocates of their subject, advancing their positions with ‘every trick in the book’. Indeed, all researchers are “partisan advocates of the validity and importance of their work”, according to a recent study9. There is a continuum from ‘informing’ to ‘persuading’ — and researchers should choose their position on it consciously. Political and professional communicators often have aims and obligations that push them towards persuasion, whereas scientists should feel more free to judge what is appropriate.
+
+Many researchers do an excellent job of engaging with the public. Still, it bears repeating: researchers should not take up the reins of rhetoric blindly or feel that they should always harness the tools used by the media and entertainment industries to shape people’s emotions and beliefs. Nor should they assume that they are apolitical, unbiased and utterly objective — all of us have values, beliefs and temptations. Even if we choose to be an ‘honest broker’, the first person we need to be honest with is ourselves.
+
+In our research across ten countries, we see how people’s willingness to be vaccinated against COVID-19 correlates with their background levels of trust in science, scientific researchers and doctors, alongside their worry about the virus and their general beliefs in the efficacy of vaccines.
+
+Trust is crucial. Always aiming to ‘sell the science’ doesn’t help the scientific process or the scientific community in the long run, just as it doesn’t help people (patients, the public or policymakers) to make informed decisions in the short term. That requires good evidence communication. Ironically, we hope we’ve persuaded you of that.

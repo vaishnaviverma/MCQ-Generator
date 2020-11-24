@@ -1,0 +1,53 @@
+A technology for building quantum computers that has long been sidelined by major companies is gaining momentum. As quantum computing has transformed from academic exercise to big business over the past decade, the spotlight has mostly been on one approach — the tiny superconducting loops embraced by technology giants such as IBM and Intel. Superconductors enabled Google last year to claim it had achieved ‘quantum advantage’ with a quantum machine that for the first time performed a particular calculation that is beyond the practical capabilities of the best classical computer. But a separate approach, using ions trapped in electric fields, is gaining traction in the quest to make a commercial quantum computer.
+
+Earlier this year, technology and manufacturing company Honeywell launched its first quantum computer using trapped ions as the basis of its quantum bits or 'qubits', which it had been working on quietly for more than a decade. Honeywell, headquartered in Charlotte, North Carolina, is the first established company to take this route. In October, seven months after the launch, the firm unveiled an upgraded machine; it already has plans to scale this up.
+
+
+Beyond quantum supremacy: the hunt for useful quantum computers
+And last month, University of Maryland spin-out firm IonQ announced a trapped-ion machine that could prove to be competitive with those of IBM or Google, although the company has yet to publish details of its performance. Smaller spin-out firms — such as UK-based Universal Quantum and Alpine Quantum Technology in Innsbruck, Austria — are also attracting investment for trapped-ion projects.
+
+Trapped-ion quantum computers are far from new: they were the basis of the qubits in the first basic quantum circuit in 19951, long before anyone used superconducting loops. But efforts to put all the building blocks together to build viable commercial systems are “sort of bursting on the scene now”, says Daniel Slichter, a quantum physicist at the National Institute of Standards and Technology (NIST) in Boulder, Colorado.
+
+A bronze-coloured chip embedded in concentric rings of metal.
+Honeywell’s ion trap inside a vacuum chamber.Credit: Honeywell Quantum Solutions
+
+“I think nowadays people say ‘superconductors’ and ‘trapped ions’ in the same breath, and they weren’t saying that even five years ago,” says Chris Monroe, a physicist at the University of Maryland in College Park, who worked on the 1995 experiment and is a co-founder of IonQ. Quantum computing is still in its infancy, and although various companies are jockeying to claim that their quantum computer is the most advanced (see ‘Who’s best?’), it is too early to say which types of hardware — if any — will prevail. As companies embrace a range of technologies, the field is wider than ever.
+
+Massive calculations
+Classical computers store their information as 1s and 0s, but qubits exist in a delicate superposition of 1 and 0. Through the quantum phenomenon of entanglement, qubits’ states can become intertwined, and interference of their wavelike quantum states should allow a quantum computer to carry out certain massive calculations exponentially faster than the best classical machines can. This includes finding the factors of prime numbers.
+
+Any system with two possible quantum mechanical states — such as the oscillations in a superconducting loop or energy levels of an ion — could form a qubit, but all hardware types have pros and cons, and each faces substantial hurdles to forming a full-blown quantum computer. A machine capable of living up to the original promise of quantum computing by, for example, cracking conventional encryption, would require millions of individually controllable qubits. But size is not the only issue: the quality of the qubits and how well they connect to each other are just as important.
+
+The frequency of errors in delicate qubits and their operations, caused by noise, tends to increase as more are connected. For millions of qubits to calculate together each needs to work with error rates that are low enough that mistakes can be detected and fixed in a process known as error correction , although physicists also hope that smaller, noisier systems will prove useful in the near-term.
+
+WHO’S THE BEST?
+Laboratories have long competed to build the quantum computer with the most qubits. But judging which machine is the most powerful is fraught, says Sabrina Maniscalco, a quantum physicist at the University of Helsinki. “There isn’t just one measure of performance,” she says.
+
+In June, technology firm Honeywell in Charlotte, North Carolina, claimed to have made the world’s most powerful quantum computer as measured by ‘quantum volume’. This metric takes into account a system’s number of qubits, connectivity, noise and error rates, which capture the complexity of problems it can solve. The machine’s quantum volume was 64, twice that of IBM’s then-leading device. As a comparison tool, quantum volume is better than judging on the number of qubits alone but is still a rather coarse metric, says Maniscalco.
+
+Head-to-head comparisons — an alternative way to measure the relative capabilities of devices — are not always productive, because the performance of any computer depends on tthe task, says Margaret Martonosi, head of the US National Science Foundation’s computer-science directorate in Alexandria, Virginia. Without knowing how crucial characteristics will scale, performance of a prototype tells us little about the power of a full-size version, she adds.
+
+In using any metric, companies should be cautious about making grand claims, says Doug Finke, a computer scientist in Orange County, California, who runs the industry-tracking website Quantum Computing Report. Honeywell’s assertion that its machine was the most powerful was premature, because few developers use quantum volume, he says. And in October, the first time IonQ formally used the metric, the University of Maryland spin-out firm said they expected their latest machine to have a quantum volume of 4 million, which if substantiated would outstrip Honeywell's record.
+
+Another measure of power is a quantum computer’s ability to beat a classical machine on a problem — which Google did last year using a 54-quibit machine. For Finke, achieving this ‘quantum advantage’ in a commercially valuable problem is “the real measure of a quantum computer’s success”.
+
+Pros and cons
+In the past few years, rapid progress in superconducting loops risked leaving trapped ions in the dust. Google and IBM and others have developed machines with around 50 or more high-quality qubits. IBM aims to have a 1,000-qubit machine by 2023. John Martinis, a quantum physicist at the University of California, Santa Barbara — and, until April, head of quantum hardware at Google — thinks that Google will use the same basic architecture it used to achieve quantum advantage to achieve error-correction, the next big milestone.
+
+
+Hello quantum world! Google publishes landmark quantum supremacy claim
+Superconducting qubits have so far benefitted from feeling familiar to many companies, as their basic components being are compatible with classical chip technology. But trapped-ion qubits, which store information in the energy levels of individual charged atoms held in an electric field, have many inherent advantages, says Sabrina Maniscalco, a quantum physicist at the University of Helsinki. Their operations are much less prone to errors and the delicate quantum states of individual ions last longer than those in superconducting qubits, which although small are still made of a very large number of atoms. Moreover, superconducting qubits tend to interact only with their nearest neighbours, whereas trapped ions can interact with many others, which makes it easier to run some complex calculations, she says.
+
+But trapped ions have drawbacks: they are slower at interacting than superconducting qubits, which will be important when it comes to accounting for real-time errors coming out of the system, says Michele Reilly, founder of quantum software company Turing in New York. And there are limits to how many ions can fit in a single trap and be made to interact. IonQ’s latest model contains 32 trapped ions sitting in a chain; plucking any 2 using lasers causes them to interact. To scale up to hundreds of qubits, the company is working on ways to link up multiple chains of qubits using photons. The firm aims to double their number of qubits each year.
+
+Two desk chairs in front of large screens in a dimly lit room with a picture of the vacuum chamber on the wall.
+The control room for Honeywell’s quantum computer.Credit: Honeywell Quantum Solutions
+
+Meanwhile, Honeywell plans to interconnect every ion to each other by physically shuttling them around a giant chip2 — an idea first developed at NIST in the late 1990s. The latest system by the firm's Honeywell Quantum Solutions (HQS) division, called H1, consists of just 10 qubits, but its chief scientist Patty Lee says that the firm is already working on its next iteration. In the next 5 years, the team plans to connect around 20 qubits, which should allow the machine to carry out problems that are otherwise impractical on classical machines, says Tony Uttley, president of HQS.
+
+The challenge is to keep the quality and precision of qubits, while controlling dozens, or even hundreds, at once — which neither Honeywell nor IonQ has yet shown they can do. Although many of the necessary components have been mastered individually, “what is needed is a system-level integrative approach putting it all together, testing it, solving its problems,” says Barbara Terhal, a theoretical physicist at Delft University of Technology in the Netherlands.
+
+No clear victor
+Trapped-ion hardware isn’t the only one attracting substantial investment. The success of superconducting qubits has opened the doors for various technologies, says Slichter, including silicon-based spin qubits, which store quantum information in the nuclear spin states of an atom embedded in a silicon crystal. In a coup for this technology, Martinis joined Silicon Quantum Computing in Sydney, Australia, on a 6-month sabbatical in September — his first move away from superconducting systems in almost two decades. Martinis doesn’t mind which design ends up winning. “I want to help someone to build the first quantum computer. It doesn’t have to be me [or] whatever I’m working with,” he says.
+
+The race is also far from being called, says Maniscalco, and a winner may never emerge. “It may be that there isn’t one winning platform, but we have a hybrid or different platforms being useful for different tasks.”

@@ -1,0 +1,98 @@
+**************************************        Multiple Choice Questions        *******************************
+
+Question 1->  Honeywell’s ion trap inside a vacuum chamber.Credit: Honeywell Quantum Solutions
+
+“I think nowadays people say ‘superconductors’ and ‘trapped ions’ in the same breath, and they weren’t saying that even five years ago,” says Chris Monroe, a physicist at the ________ of Maryland in College Park, who worked on the 1995 experiment and is a co-founder of IonQ.
+	 a )  Perfumery
+	 b )  University
+	 c )  Academy
+	 d )  Institution
+
+Question 2->  Smaller spin-out firms — such as UK-based Universal Quantum and Alpine Quantum Technology in ________, Austria — are also attracting investment for trapped-ion projects.
+	 a )  Brenner Pass
+	 b )  Linz
+	 c )  Innsbruck
+	 d )  Salzburg
+
+Question 3->  Honeywell’s ion trap inside a vacuum chamber.Credit: Honeywell Quantum Solutions
+
+“I think nowadays people say ‘superconductors’ and ‘trapped ions’ in the same breath, and they weren’t saying that even five years ago,” says Chris Monroe, a physicist at the University of ________ in College Park, who worked on the 1995 experiment and is a co-founder of IonQ.
+	 a )  New Jersey
+	 b )  Pennsylvania
+	 c )  Delaware
+	 d )  Maryland
+
+Question 4->  Smaller spin-out firms — such as UK-based Universal Quantum and Alpine Quantum Technology in Innsbruck, ________ — are also attracting investment for trapped-ion projects.
+	 a )  Switzerland
+	 b )  France
+	 c )  Austria
+	 d )  Ukraine
+
+Question 5->  John Martinis, a quantum physicist at the University of ________, Santa Barbara — and, until April, head of quantum hardware at Google — thinks that Google will use the same basic architecture it used to achieve quantum advantage to achieve error-correction, the next big milestone.
+	 a )  California
+	 b )  New Mexico
+	 c )  Texas
+	 d )  Arizona
+
+Question 6->  In June, technology firm Honeywell in ________, North Carolina, claimed to have made the world’s most powerful quantum computer as measured by ‘quantum volume’.
+	 a )  Goldsboro
+	 b )  Raleigh
+	 c )  Great Smoky Mountains National Park
+	 d )  Charlotte
+
+Question 7->  Beyond ________ supremacy: the hunt for useful ________ computers
+And last month, University of Maryland spin-out firm IonQ announced a trapped-ion machine that could prove to be competitive with those of IBM or Google, although the company has yet to publish details of its performance.
+	 a )  Cordage
+	 b )  Quantum
+	 c )  Fundamental Quantity
+	 d )  Definite Quantity
+
+Question 8->  In June, technology firm Honeywell in Charlotte, ________, claimed to have made the world’s most powerful quantum computer as measured by ‘quantum volume’.
+	 a )  Piedmont
+	 b )  Carolina
+	 c )  Maryland
+	 d )  North carolina
+
+Question 9->  Although many of the necessary components have been mastered individually, “what is needed is a system-level integrative approach putting it all together, testing it, solving its problems,” says Barbara Terhal, a theoretical physicist at Delft University of ________ in the Netherlands.
+	 a )  Bibliotics
+	 b )  Architecture
+	 c )  Allometry
+	 d )  Technology
+
+Question 10->  John Martinis, a quantum physicist at the University of California, ________ — and, until April, head of quantum hardware at Google — thinks that Google will use the same basic architecture it used to achieve quantum advantage to achieve error-correction, the next big milestone.
+	 a )  Shasta
+	 b )  Santa barbara
+	 c )  Channel Islands National Park
+	 d )  Donner Pass
+
+Question 11->  But trapped-ion qubits, which store information in the energy levels of individual charged atoms held in an electric field, have many inherent advantages, says Sabrina Maniscalco, a quantum physicist at the University of ________.
+	 a )  Mariehamn
+	 b )  Tampere
+	 c )  Espoo
+	 d )  Helsinki
+
+Question 12->  The control room for Honeywell’s quantum computer.Credit: Honeywell Quantum Solutions
+
+Meanwhile, Honeywell plans to interconnect every ion to each other by physically shuttling them around a giant chip2 — an idea first developed at ________ in the late 1990s.
+	 a )  Advanced Research And Development Activity
+	 b )  Nist
+	 c )  Air Force Intelligence Surveillance And Reconnaissance
+	 d )  Army Intelligence
+
+Question 13->  But efforts to put all the building blocks together to build viable commercial systems are “sort of bursting on the scene now”, says Daniel Slichter, a quantum physicist at the National Institute of ________ and Technology (NIST) in Boulder, Colorado.
+	 a )  Criterion
+	 b )  Exemplar
+	 c )  Standards
+	 d )  Ego Ideal
+
+Question 14->  But efforts to put all the building blocks together to build viable commercial systems are “sort of bursting on the scene now”, says Daniel Slichter, a quantum physicist at the National Institute of Standards and Technology (NIST) in ________, Colorado.
+	 a )  Boulder
+	 b )  Achondrite
+	 c )  Calculus
+	 d )  Bedrock
+
+Question 15->  And in ________, the first time IonQ formally used the metric, the University of Maryland spin-out firm said they expected their latest machine to have a quantum volume of 4 million, which if substantiated would outstrip Honeywell's record.
+	 a )  October
+	 b )  August
+	 c )  April
+	 d )  December

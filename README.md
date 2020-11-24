@@ -8,4 +8,4 @@ The primary function of this project is to take in an article in the form of a t
 
 The project takes the input in the form of a text file in the initial lines of the program. Once it is done, it gives the created MCQ in the output of the program.
 
-Please feel free to create PRs as there is always a room for improvement! :)
+Please feel free to create PRs as there is always room for improvement! :)
